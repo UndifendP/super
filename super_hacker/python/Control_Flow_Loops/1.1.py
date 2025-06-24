@@ -1,4 +1,4 @@
-#E-Class_Tasks/Week1/Assignments/Python Basics & Data Types/1.1.py
+#E-Class_Tasks/Week1/Assignments/
 
 #!/usr/bin/python3
 pas="s3cr3t"
